@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androidAssignTwo</string>
+    <string name="body_mass_label">"Body mass index is "</string>
+    <string name="body_mass_index">Body mass index</string>
+    <string name="name_label">Hamidreza App BMI</string>
+    <string name="height_label">Height(m)</string>
+    <string name="weight_label">Weight(kg)</string>
+</resources>
